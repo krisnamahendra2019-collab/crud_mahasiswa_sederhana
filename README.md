@@ -46,6 +46,7 @@ crud_mahasiswa_sederhana/
 ---
 
 ## 👨‍💻 Pembuat
-Nama: I Gusti Putu Agus Krisna Mahendra  
+Nama: I Gusti Putu Agus Krisna Mahendra 
+Nim : 240030177 
 Mata Kuliah: Pengembangan Sistem Backend (BA243)  
 Dosen: Gede Sastrawangsa
