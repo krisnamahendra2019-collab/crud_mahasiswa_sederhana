@@ -15,6 +15,7 @@
 <?php
 $stmt = $pdo->query("SELECT * FROM mahasiswa ORDER BY id DESC");
 foreach ($stmt as $row): ?>
+// Menampilkan daftar mahasiswa 
 <tr>
   <td><?= $row['id'] ?></td>
   <td><?= $row['nama'] ?></td>
